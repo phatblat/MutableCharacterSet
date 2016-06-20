@@ -2,6 +2,8 @@
 
 macOS command line project demonstrating an issue with removing characters from a mutable `CharacterSet` in Swift 3.
 
+[rdar://26880260](http://openradar.appspot.com/26880260)
+
 ## `NSCharacterSet.urlQueryAllowed()` (working)
 
 ### Type
